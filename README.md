@@ -1,5 +1,4 @@
 # Classifying-yelp-Review-1-to-5-Rating-
-Classifying yelp Review (1 to 5 Rating) using Natural Language Processing
 classifying Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
 Dataset Description - 
